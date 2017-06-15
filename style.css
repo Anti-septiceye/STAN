@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  background-color: #020150;
+  color:mediumpurple;
+  
+}
+
+#search{display: inline}
+
+img {margin: 32px;}
